@@ -1,0 +1,30 @@
+VIN/Serial: 53, Make: Ford, Model: GT40, Year: 1966, Condition: Modified
+VIN/Serial: 32, Make: Toyota, Model: Supra, Year: 1994, Condition: Modified
+VIN/Serial: 41, Make: Mini, Model: Cooper, Year: 1964, Condition: Restored
+VIN/Serial: 45, Make: Mazda, Model: RX-7, Year: 1993, Condition: Modified
+VIN/Serial: 50, Make: Ferrari, Model: F40, Year: 1987, Condition: Restored
+VIN/Serial: 33, Make: Hyundai, Model: Genesis Coupe, Year: 2010, Condition: Modified
+VIN/Serial: 47, Make: Mitsubishi, Model: Lancer Evolution, Year: 1999, Condition: Modified
+VIN/Serial: 34, Make: Subaru, Model: BRZ, Year: 2013, Condition: Original
+VIN/Serial: 44, Make: Audi, Model: Quattro, Year: 1980, Condition: Restored
+VIN/Serial: 52, Make: Bugatti, Model: EB110, Year: 1991, Condition: Original
+VIN/Serial: 36, Make: Citroën, Model: DS, Year: 1955, Condition: Restored
+VIN/Serial: 38, Make: Peugeot, Model: 205 GTI, Year: 1984, Condition: Original
+VIN/Serial: 54, Make: Lotus, Model: Esprit, Year: 1976, Condition: Restored
+VIN/Serial: 56, Make: Acura, Model: NSX, Year: 1991, Condition: Original
+VIN/Serial: 48, Make: BMW, Model: M1, Year: 1978, Condition: Original
+VIN/Serial: 49, Make: Aston Martin, Model: V8 Vantage, Year: 1977, Condition: Modified
+VIN/Serial: 37, Make: Lancia, Model: Stratos, Year: 1973, Condition: Restored
+VIN/Serial: 60, Make: Chrysler, Model: 300, Year: 1955, Condition: Original
+VIN/Serial: 57, Make: Pontiac, Model: Firebird, Year: 1969, Condition: Restored
+VIN/Serial: 40, Make: Peugeot, Model: 404, Year: 1960, Condition: Restored
+VIN/Serial: 42, Make: Tesla, Model: Roadster, Year: 2008, Condition: Original
+VIN/Serial: 31, Make: Honda, Model: S2000, Year: 2000, Condition: Original
+VIN/Serial: 55, Make: Jeep, Model: CJ-7, Year: 1976, Condition: Modified
+VIN/Serial: 35, Make: Saab, Model: 900 Turbo, Year: 1986, Condition: Restored
+VIN/Serial: 43, Make: Volvo, Model: 240, Year: 1975, Condition: Restored
+VIN/Serial: 59, Make: Subaru, Model: Impreza WRX, Year: 2004, Condition: Modified
+VIN/Serial: 39, Make: Renault, Model: Alpine A110, Year: 1961, Condition: Restored
+VIN/Serial: 51, Make: McLaren, Model: F1, Year: 1992, Condition: Original
+VIN/Serial: 46, Make: Alfa Romeo, Model: Spider, Year: 1966, Condition: Restored
+VIN/Serial: 58, Make: Mercedes-Benz, Model: 190E, Year: 1984, Condition: Modified

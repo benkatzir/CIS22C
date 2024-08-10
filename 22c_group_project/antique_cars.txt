@@ -1,0 +1,30 @@
+VIN/Serial: 17, Make: Plymouth, Model: Barracuda, Year: 1970, Condition: Original
+VIN/Serial: 5, Make: Cadillac, Model: Eldorado, Year: 1959, Condition: Restored
+VIN/Serial: 23, Make: AMC, Model: Javelin, Year: 1971, Condition: Restored
+VIN/Serial: 14, Make: Dodge, Model: Charger, Year: 1969, Condition: Original
+VIN/Serial: 28, Make: Fiat, Model: 500, Year: 1957, Condition: Original
+VIN/Serial: 10, Make: Aston Martin, Model: DB5, Year: 1964, Condition: Modified
+VIN/Serial: 2, Make: Chevrolet, Model: Bel Air, Year: 1957, Condition: Original
+VIN/Serial: 8, Make: Ferrari, Model: 250 GTO, Year: 1962, Condition: Original
+VIN/Serial: 19, Make: Oldsmobile, Model: 442, Year: 1969, Condition: Modified
+VIN/Serial: 21, Make: Toyota, Model: 2000GT, Year: 1967, Condition: Restored
+VIN/Serial: 3, Make: Volkswagen, Model: Beetle, Year: 1965, Condition: Restored
+VIN/Serial: 15, Make: Pontiac, Model: GTO, Year: 1967, Condition: Modified
+VIN/Serial: 13, Make: Chevrolet, Model: Corvette Stingray, Year: 1963, Condition: Restored
+VIN/Serial: 4, Make: Porsche, Model: 911, Year: 1973, Condition: Modified
+VIN/Serial: 24, Make: Maserati, Model: Ghibli, Year: 1967, Condition: Original
+VIN/Serial: 18, Make: Buick, Model: Riviera, Year: 1963, Condition: Restored
+VIN/Serial: 1, Make: Ford, Model: Model T, Year: 1912, Condition: Restored
+VIN/Serial: 11, Make: BMW, Model: 507, Year: 1956, Condition: Restored
+VIN/Serial: 6, Make: Rolls-Royce, Model: Silver Ghost, Year: 1907, Condition: Original
+VIN/Serial: 30, Make: Morgan, Model: Plus 4, Year: 1950, Condition: Modified
+VIN/Serial: 16, Make: Jaguar, Model: E-Type, Year: 1961, Condition: Restored
+VIN/Serial: 27, Make: Volvo, Model: P1800, Year: 1965, Condition: Restored
+VIN/Serial: 7, Make: Mercedes-Benz, Model: 300 SL, Year: 1954, Condition: Restored
+VIN/Serial: 22, Make: Nissan, Model: Skyline GT-R, Year: 1971, Condition: Modified
+VIN/Serial: 12, Make: Ford, Model: Mustang, Year: 1965, Condition: Modified
+VIN/Serial: 20, Make: Shelby, Model: Cobra, Year: 1965, Condition: Original
+VIN/Serial: 29, Make: Sunbeam, Model: Tiger, Year: 1966, Condition: Restored
+VIN/Serial: 9, Make: Lamborghini, Model: Miura, Year: 1966, Condition: Restored
+VIN/Serial: 25, Make: Alfa Romeo, Model: Giulia Sprint, Year: 1965, Condition: Restored
+VIN/Serial: 26, Make: Lotus, Model: Elan, Year: 1962, Condition: Modified

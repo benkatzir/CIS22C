@@ -1,0 +1,575 @@
+Cars successfully loaded from antique_cars.txt
+
+Choose from the menu (case insensitive):
+INS - Insert from file
+I - Add New Car (insert)
+D - Delete a Car (Delete)
+F -  Search Manager (Find car by car ID)
+DIS - Display manager
+U - Undo delete
+S - Save to file
+ST - Hash Statistics
+T - Show team members (hidden menu option)
+E - Exit program
+Enter an option (H - for help): t
+Team Members:
+Ben Katzir
+Kristine Koo
+Kelvin Prabhu
+Mazen Alziq
+Team Leader: Ferit Kabil
+h
+
+Choose from the menu (case insensitive):
+INS - Insert from file
+I - Add New Car (insert)
+D - Delete a Car (Delete)
+F -  Search Manager (Find car by car ID)
+DIS - Display manager
+U - Undo delete
+S - Save to file
+ST - Hash Statistics
+T - Show team members (hidden menu option)
+E - Exit program
+Enter an option (H - for help): DIST
+Invalid choice. Please try again.
+y
+Invalid choice. Please try again.
+h
+
+Choose from the menu (case insensitive):
+INS - Insert from file
+I - Add New Car (insert)
+D - Delete a Car (Delete)
+F -  Search Manager (Find car by car ID)
+DIS - Display manager
+U - Undo delete
+S - Save to file
+ST - Hash Statistics
+T - Show team members (hidden menu option)
+E - Exit program
+Enter an option (H - for help): DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):y
+Indented Tree Display:
+1). 17
+..2). 23
+....3). 28
+......4). 30
+........5). 29
+......4). 24
+........5). 27
+..........6). 25
+............7). 26
+....3). 19
+......4). 21
+........5). 22
+........5). 20
+......4). 18
+..2). 5
+....3). 14
+......4). 15
+........5). 16
+......4). 10
+........5). 13
+..........6). 11
+............7). 12
+........5). 8
+..........6). 9
+..........6). 6
+............7). 7
+....3). 2
+......4). 3
+........5). 4
+......4). 1
+I
+Enter car ID: 30
+Enter car make: Ford
+Enter car model: Mustang
+Enter car year: 1959
+Enter car condition: Restored
+Cannot add duplicates.
+Dis
+Display Tree? Press any key (press Y for hidden menu option indented tree):Y
+Indented Tree Display:
+1). 17
+..2). 23
+....3). 28
+......4). 30
+........5). 29
+......4). 24
+........5). 27
+..........6). 25
+............7). 26
+....3). 19
+......4). 21
+........5). 22
+........5). 20
+......4). 18
+..2). 5
+....3). 14
+......4). 15
+........5). 16
+......4). 10
+........5). 13
+..........6). 11
+............7). 12
+........5). 8
+..........6). 9
+..........6). 6
+............7). 7
+....3). 2
+......4). 3
+........5). 4
+......4). 1
+I
+Enter car ID: 63
+Enter car make: Ford
+Enter car model: Mustang
+Enter car year: 1959
+Enter car condition: Restored
+Car added successfully.
+DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):E
+Inorder Traversal:
+1  Ford  Model T  1912  Restored  
+2  Chevrolet  Bel Air  1957  Original  
+3  Volkswagen  Beetle  1965  Restored  
+4  Porsche  911  1973  Modified  
+5  Cadillac  Eldorado  1959  Restored  
+6  Rolls-Royce  Silver Ghost  1907  Original  
+7  Mercedes-Benz  300 SL  1954  Restored  
+8  Ferrari  250 GTO  1962  Original  
+9  Lamborghini  Miura  1966  Restored  
+10  Aston Martin  DB5  1964  Modified  
+11  BMW  507  1956  Restored  
+12  Ford  Mustang  1965  Modified  
+13  Chevrolet  Corvette Stingray  1963  Restored  
+14  Dodge  Charger  1969  Original  
+15  Pontiac  GTO  1967  Modified  
+16  Jaguar  E-Type  1961  Restored  
+17  Plymouth  Barracuda  1970  Original  
+18  Buick  Riviera  1963  Restored  
+19  Oldsmobile  442  1969  Modified  
+20  Shelby  Cobra  1965  Original  
+21  Toyota  2000GT  1967  Restored  
+22  Nissan  Skyline GT-R  1971  Modified  
+23  AMC  Javelin  1971  Restored  
+24  Maserati  Ghibli  1967  Original  
+25  Alfa Romeo  Giulia Sprint  1965  Restored  
+26  Lotus  Elan  1962  Modified  
+27  Volvo  P1800  1965  Restored  
+28  Fiat  500  1957  Original  
+29  Sunbeam  Tiger  1966  Restored  
+30  Morgan  Plus 4  1950  Modified  
+63  Ford  Mustang  1959  Restored  
+F
+--- Search Function --- 
+Enter Car ID [-1 to stop searching]:
+63
+Car 63 exists in the data. 
+---------------------------
+   Car ID: 63
+   Make: Ford
+   Model: Mustang
+   Year: 1959
+   Condition: Restored
+---------------------------
+-1
+D
+Enter car ID to delete: 63
+Car deleted successfully from the tree.
+Car deleted successfully from the hash table.
+f
+--- Search Function --- 
+Enter Car ID [-1 to stop searching]:
+63
+Car 63 does not exist. 
+-1
+DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):y
+Indented Tree Display:
+1). 17
+..2). 23
+....3). 28
+......4). 30
+........5). 29
+......4). 24
+........5). 27
+..........6). 25
+............7). 26
+....3). 19
+......4). 21
+........5). 22
+........5). 20
+......4). 18
+..2). 5
+....3). 14
+......4). 15
+........5). 16
+......4). 10
+........5). 13
+..........6). 11
+............7). 12
+........5). 8
+..........6). 9
+..........6). 6
+............7). 7
+....3). 2
+......4). 3
+........5). 4
+......4). 1
+u
+Undo delete was successful.
+F
+--- Search Function --- 
+Enter Car ID [-1 to stop searching]:
+63
+Car 63 exists in the data. 
+---------------------------
+   Car ID: 63
+   Make: Ford
+   Model: Mustang
+   Year: 1959
+   Condition: Restored
+---------------------------
+-1
+DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):y
+Indented Tree Display:
+1). 17
+..2). 23
+....3). 28
+......4). 30
+........5). 63
+........5). 29
+......4). 24
+........5). 27
+..........6). 25
+............7). 26
+....3). 19
+......4). 21
+........5). 22
+........5). 20
+......4). 18
+..2). 5
+....3). 14
+......4). 15
+........5). 16
+......4). 10
+........5). 13
+..........6). 11
+............7). 12
+........5). 8
+..........6). 9
+..........6). 6
+............7). 7
+....3). 2
+......4). 3
+........5). 4
+......4). 1
+st
+Longest Collisions: 24
+Total Collisions: 224
+Load Factor: 50.8197
+Ins
+Enter file name: second_antique_cars.txt
+Cars successfully loaded from second_antique_cars.txt
+DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):y
+Indented Tree Display:
+1). 17
+..2). 23
+....3). 28
+......4). 30
+........5). 63
+..........6). 53
+............7). 54
+..............8). 56
+................9). 60
+..................10). 57
+....................11). 59
+......................12). 58
+................9). 55
+............7). 32
+..............8). 41
+................9). 45
+..................10). 50
+....................11). 52
+......................12). 51
+....................11). 47
+......................12). 48
+........................13). 49
+......................12). 46
+..................10). 44
+....................11). 42
+......................12). 43
+................9). 33
+..................10). 34
+....................11). 36
+......................12). 38
+........................13). 40
+..........................14). 39
+........................13). 37
+......................12). 35
+..............8). 31
+........5). 29
+......4). 24
+........5). 27
+..........6). 25
+............7). 26
+....3). 19
+......4). 21
+........5). 22
+........5). 20
+......4). 18
+..2). 5
+....3). 14
+......4). 15
+........5). 16
+......4). 10
+........5). 13
+..........6). 11
+............7). 12
+........5). 8
+..........6). 9
+..........6). 6
+............7). 7
+....3). 2
+......4). 3
+........5). 4
+......4). 1
+F
+--- Search Function --- 
+Enter Car ID [-1 to stop searching]:
+43
+Car 43 exists in the data. 
+---------------------------
+   Car ID: 43
+   Make: Volvo
+   Model: 240
+   Year: 1975
+   Condition: Restored
+---------------------------
+-1
+DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):j
+Inorder Traversal:
+1  Ford  Model T  1912  Restored  
+2  Chevrolet  Bel Air  1957  Original  
+3  Volkswagen  Beetle  1965  Restored  
+4  Porsche  911  1973  Modified  
+5  Cadillac  Eldorado  1959  Restored  
+6  Rolls-Royce  Silver Ghost  1907  Original  
+7  Mercedes-Benz  300 SL  1954  Restored  
+8  Ferrari  250 GTO  1962  Original  
+9  Lamborghini  Miura  1966  Restored  
+10  Aston Martin  DB5  1964  Modified  
+11  BMW  507  1956  Restored  
+12  Ford  Mustang  1965  Modified  
+13  Chevrolet  Corvette Stingray  1963  Restored  
+14  Dodge  Charger  1969  Original  
+15  Pontiac  GTO  1967  Modified  
+16  Jaguar  E-Type  1961  Restored  
+17  Plymouth  Barracuda  1970  Original  
+18  Buick  Riviera  1963  Restored  
+19  Oldsmobile  442  1969  Modified  
+20  Shelby  Cobra  1965  Original  
+21  Toyota  2000GT  1967  Restored  
+22  Nissan  Skyline GT-R  1971  Modified  
+23  AMC  Javelin  1971  Restored  
+24  Maserati  Ghibli  1967  Original  
+25  Alfa Romeo  Giulia Sprint  1965  Restored  
+26  Lotus  Elan  1962  Modified  
+27  Volvo  P1800  1965  Restored  
+28  Fiat  500  1957  Original  
+29  Sunbeam  Tiger  1966  Restored  
+30  Morgan  Plus 4  1950  Modified  
+31  Honda  S2000  2000  Original  
+32  Toyota  Supra  1994  Modified  
+33  Hyundai  Genesis Coupe  2010  Modified  
+34  Subaru  BRZ  2013  Original  
+35  Saab  900 Turbo  1986  Restored  
+36  Citroën  DS  1955  Restored  
+37  Lancia  Stratos  1973  Restored  
+38  Peugeot  205 GTI  1984  Original  
+39  Renault  Alpine A110  1961  Restored  
+40  Peugeot  404  1960  Restored  
+41  Mini  Cooper  1964  Restored  
+42  Tesla  Roadster  2008  Original  
+43  Volvo  240  1975  Restored  
+44  Audi  Quattro  1980  Restored  
+45  Mazda  RX-7  1993  Modified  
+46  Alfa Romeo  Spider  1966  Restored  
+47  Mitsubishi  Lancer Evolution  1999  Modified  
+48  BMW  M1  1978  Original  
+49  Aston Martin  V8 Vantage  1977  Modified  
+50  Ferrari  F40  1987  Restored  
+51  McLaren  F1  1992  Original  
+52  Bugatti  EB110  1991  Original  
+53  Ford  GT40  1966  Modified  
+54  Lotus  Esprit  1976  Restored  
+55  Jeep  CJ-7  1976  Modified  
+56  Acura  NSX  1991  Original  
+57  Pontiac  Firebird  1969  Restored  
+58  Mercedes-Benz  190E  1984  Modified  
+59  Subaru  Impreza WRX  2004  Modified  
+60  Chrysler  300  1955  Original  
+63  Ford  Mustang  1959  Restored  
+st
+Longest Collisions: 44
+Total Collisions: 988
+Load Factor: 48.0315
+D
+Enter car ID to delete: 50
+Car deleted successfully from the tree.
+Car deleted successfully from the hash table.
+D
+Enter car ID to delete: 51
+Car deleted successfully from the tree.
+Car deleted successfully from the hash table.
+u
+Undo delete was successful.
+DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):j
+Inorder Traversal:
+1  Ford  Model T  1912  Restored  
+2  Chevrolet  Bel Air  1957  Original  
+3  Volkswagen  Beetle  1965  Restored  
+4  Porsche  911  1973  Modified  
+5  Cadillac  Eldorado  1959  Restored  
+6  Rolls-Royce  Silver Ghost  1907  Original  
+7  Mercedes-Benz  300 SL  1954  Restored  
+8  Ferrari  250 GTO  1962  Original  
+9  Lamborghini  Miura  1966  Restored  
+10  Aston Martin  DB5  1964  Modified  
+11  BMW  507  1956  Restored  
+12  Ford  Mustang  1965  Modified  
+13  Chevrolet  Corvette Stingray  1963  Restored  
+14  Dodge  Charger  1969  Original  
+15  Pontiac  GTO  1967  Modified  
+16  Jaguar  E-Type  1961  Restored  
+17  Plymouth  Barracuda  1970  Original  
+18  Buick  Riviera  1963  Restored  
+19  Oldsmobile  442  1969  Modified  
+20  Shelby  Cobra  1965  Original  
+21  Toyota  2000GT  1967  Restored  
+22  Nissan  Skyline GT-R  1971  Modified  
+23  AMC  Javelin  1971  Restored  
+24  Maserati  Ghibli  1967  Original  
+25  Alfa Romeo  Giulia Sprint  1965  Restored  
+26  Lotus  Elan  1962  Modified  
+27  Volvo  P1800  1965  Restored  
+28  Fiat  500  1957  Original  
+29  Sunbeam  Tiger  1966  Restored  
+30  Morgan  Plus 4  1950  Modified  
+31  Honda  S2000  2000  Original  
+32  Toyota  Supra  1994  Modified  
+33  Hyundai  Genesis Coupe  2010  Modified  
+34  Subaru  BRZ  2013  Original  
+35  Saab  900 Turbo  1986  Restored  
+36  Citroën  DS  1955  Restored  
+37  Lancia  Stratos  1973  Restored  
+38  Peugeot  205 GTI  1984  Original  
+39  Renault  Alpine A110  1961  Restored  
+40  Peugeot  404  1960  Restored  
+41  Mini  Cooper  1964  Restored  
+42  Tesla  Roadster  2008  Original  
+43  Volvo  240  1975  Restored  
+44  Audi  Quattro  1980  Restored  
+45  Mazda  RX-7  1993  Modified  
+46  Alfa Romeo  Spider  1966  Restored  
+47  Mitsubishi  Lancer Evolution  1999  Modified  
+48  BMW  M1  1978  Original  
+49  Aston Martin  V8 Vantage  1977  Modified  
+51  McLaren  F1  1992  Original  
+52  Bugatti  EB110  1991  Original  
+53  Ford  GT40  1966  Modified  
+54  Lotus  Esprit  1976  Restored  
+55  Jeep  CJ-7  1976  Modified  
+56  Acura  NSX  1991  Original  
+57  Pontiac  Firebird  1969  Restored  
+58  Mercedes-Benz  190E  1984  Modified  
+59  Subaru  Impreza WRX  2004  Modified  
+60  Chrysler  300  1955  Original  
+63  Ford  Mustang  1959  Restored  
+U
+Undo delete was successful.
+DIS
+Display Tree? Press any key (press Y for hidden menu option indented tree):j
+Inorder Traversal:
+1  Ford  Model T  1912  Restored  
+2  Chevrolet  Bel Air  1957  Original  
+3  Volkswagen  Beetle  1965  Restored  
+4  Porsche  911  1973  Modified  
+5  Cadillac  Eldorado  1959  Restored  
+6  Rolls-Royce  Silver Ghost  1907  Original  
+7  Mercedes-Benz  300 SL  1954  Restored  
+8  Ferrari  250 GTO  1962  Original  
+9  Lamborghini  Miura  1966  Restored  
+10  Aston Martin  DB5  1964  Modified  
+11  BMW  507  1956  Restored  
+12  Ford  Mustang  1965  Modified  
+13  Chevrolet  Corvette Stingray  1963  Restored  
+14  Dodge  Charger  1969  Original  
+15  Pontiac  GTO  1967  Modified  
+16  Jaguar  E-Type  1961  Restored  
+17  Plymouth  Barracuda  1970  Original  
+18  Buick  Riviera  1963  Restored  
+19  Oldsmobile  442  1969  Modified  
+20  Shelby  Cobra  1965  Original  
+21  Toyota  2000GT  1967  Restored  
+22  Nissan  Skyline GT-R  1971  Modified  
+23  AMC  Javelin  1971  Restored  
+24  Maserati  Ghibli  1967  Original  
+25  Alfa Romeo  Giulia Sprint  1965  Restored  
+26  Lotus  Elan  1962  Modified  
+27  Volvo  P1800  1965  Restored  
+28  Fiat  500  1957  Original  
+29  Sunbeam  Tiger  1966  Restored  
+30  Morgan  Plus 4  1950  Modified  
+31  Honda  S2000  2000  Original  
+32  Toyota  Supra  1994  Modified  
+33  Hyundai  Genesis Coupe  2010  Modified  
+34  Subaru  BRZ  2013  Original  
+35  Saab  900 Turbo  1986  Restored  
+36  Citroën  DS  1955  Restored  
+37  Lancia  Stratos  1973  Restored  
+38  Peugeot  205 GTI  1984  Original  
+39  Renault  Alpine A110  1961  Restored  
+40  Peugeot  404  1960  Restored  
+41  Mini  Cooper  1964  Restored  
+42  Tesla  Roadster  2008  Original  
+43  Volvo  240  1975  Restored  
+44  Audi  Quattro  1980  Restored  
+45  Mazda  RX-7  1993  Modified  
+46  Alfa Romeo  Spider  1966  Restored  
+47  Mitsubishi  Lancer Evolution  1999  Modified  
+48  BMW  M1  1978  Original  
+49  Aston Martin  V8 Vantage  1977  Modified  
+50  Ferrari  F40  1987  Restored  
+51  McLaren  F1  1992  Original  
+52  Bugatti  EB110  1991  Original  
+53  Ford  GT40  1966  Modified  
+54  Lotus  Esprit  1976  Restored  
+55  Jeep  CJ-7  1976  Modified  
+56  Acura  NSX  1991  Original  
+57  Pontiac  Firebird  1969  Restored  
+58  Mercedes-Benz  190E  1984  Modified  
+59  Subaru  Impreza WRX  2004  Modified  
+60  Chrysler  300  1955  Original  
+63  Ford  Mustang  1959  Restored  
+S
+Hash table saved to output.txt
+D
+Enter car ID to delete: 49
+Car deleted successfully from the tree.
+Car deleted successfully from the hash table.
+S
+Hash table saved to output.txt
+D
+Enter car ID to delete: 48
+Car deleted successfully from the tree.
+Car deleted successfully from the hash table.
+E
+Hash table saved to output.txt
+Exiting program...
